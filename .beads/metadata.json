@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "LetsFG",
+  "project_id": "eec1824b-b515-440e-88d2-0e3e497a9869"
+}
