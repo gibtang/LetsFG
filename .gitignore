@@ -84,3 +84,4 @@ _*_sample.json
 .dolt/
 *.db
 .beads-credential-key
+.venv/
