@@ -85,3 +85,4 @@ _*_sample.json
 *.db
 .beads-credential-key
 .venv/
+.venv/
